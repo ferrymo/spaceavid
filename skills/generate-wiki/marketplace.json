@@ -1,0 +1,65 @@
+{
+  "name": "generate-project-wiki",
+  "displayName": "项目Wiki生成器",
+  "description": "为代码仓库生成专业、完整的技术Wiki文档，支持单体应用和微服务架构",
+  "version": "1.0.0",
+  "author": "LeapStack",
+  "license": "Apache-2.0",
+  "keywords": [
+    "wiki",
+    "documentation",
+    "project-docs",
+    "technical-docs",
+    "monolithic",
+    "microservice"
+  ],
+  "category": "documentation",
+  "languages": [
+    "zh-CN"
+  ],
+  "supportedProjectTypes": [
+    "java",
+    "spring-boot",
+    "node",
+    "python",
+    "microservice"
+  ],
+  "features": [
+    "自动分析项目结构",
+    "支持单体应用和微服务架构",
+    "生成Mermaid架构图、流程图、时序图、ER图",
+    "业务背景和场景说明",
+    "完整的术语表",
+    "开发规范和部署文档"
+  ],
+  "outputStructure": {
+    "monolithic": [
+      "README.md",
+      "01-技术架构/",
+      "02-业务模块分析/",
+      "03-数据库设计/",
+      "04-开发规范/",
+      "05-部署运维/",
+      "06-附录/"
+    ],
+    "microservice": [
+      "README.md",
+      "01-整体架构/",
+      "02-基础设施/",
+      "03-业务服务/",
+      "04-公共模块/",
+      "05-数据库设计/",
+      "06-开发规范/",
+      "07-部署运维/",
+      "08-附录/"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": "",
+  "bugs": {
+    "url": ""
+  }
+}
