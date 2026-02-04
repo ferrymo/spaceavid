@@ -3,7 +3,7 @@
   "displayName": "项目Wiki生成器",
   "description": "为代码仓库生成专业、完整的技术Wiki文档，支持单体应用和微服务架构",
   "version": "1.0.0",
-  "author": "LeapStack",
+  "author": "ferrym",
   "license": "Apache-2.0",
   "keywords": [
     "wiki",
