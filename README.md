@@ -3,4 +3,4 @@
 
 
 ## AI SKILLS
-- [项目Wiki生成器](skills/generate-wiki/SKILL.md)  
+- [项目Wiki生成器](skills/java-project-wiki/SKILL.md)  

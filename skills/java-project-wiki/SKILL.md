@@ -1,5 +1,5 @@
 ---
-name: generate-project-wiki
+name: java-project-wiki
 description: 为项目生成完整的技术Wiki文档，支持单体应用和微服务架构
 ---
 
