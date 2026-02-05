@@ -2,7 +2,7 @@
   "name": "java-project-wiki",
   "displayName": "项目Wiki生成器",
   "description": "为代码仓库生成专业、完整的技术Wiki文档，支持单体应用和微服务架构",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "ferrym",
   "license": "Apache-2.0",
   "keywords": [
