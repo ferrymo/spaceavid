@@ -36,14 +36,14 @@ description: 为项目生成完整的技术Wiki文档，支持单体应用和微
 
 **微服务架构特征**：
 - 父 `pom.xml` + 多个子模块
-- 每个服务有独立配置(bootstrap.yml/application.yml)
+- 每个服务有独立配置
 - 存在服务注册中心配置（Nacos/Eureka/Consul）
 - 存在网关配置（Gateway/Zuul）
 
 #### 2. 分析项目结构
 
 - 构建文件（pom.xml / package.json）
-- 配置文件（application.properties /application.yml）
+- 配置文件（bootstrap.yml / application.yml / application.properties）
 - 代码结构（controller/service/repository）
 - 数据库实体
 
